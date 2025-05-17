@@ -48,11 +48,11 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
   
 ----
 
-![Image](https://github.com/user-attachments/assets/d406a295-1b68-407a-9d0d-7c55b4be8d7d)
+![Image](https://files.catbox.moe/5m95l4.jpg)
 
 ----
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://files.catbox.moe/5m95l4.jpg">
 
 ----------
 
@@ -97,7 +97,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/5m95l4.jpg'/></a>
 
 -------
 
